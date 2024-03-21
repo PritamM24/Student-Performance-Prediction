@@ -2,7 +2,7 @@
 This project aims to predict student performance based on various demographic, socio-economic, and academic factors.
 
 <h1>Project Report: Forecasting Academic Achievement</h1>
-<b>1. Overview</b>
+<b>1. Overview</b><br>
 In this study, we used machine learning approaches to predict student performance based on multiple characteristics. The dataset used in this analysis includes data on the academic performance, family history, and demographics of the students.
 
 <b>2. Investigation of Data</b>
